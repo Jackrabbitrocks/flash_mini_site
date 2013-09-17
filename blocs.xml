@@ -1,0 +1,44 @@
+<blocks>
+<bloc name = 'Welcome' >
+	<slide path = "welcome-slide.swf" />
+</bloc>
+
+<bloc name = 'Agency Reel' >
+	<slide path = "slide-us.swf" />
+	<slide path = "slide-converge.swf" />
+</bloc>
+
+
+<bloc name = 'Personality' >
+	<slide path = "ourReel.swf" />
+</bloc>
+
+<bloc name = 'Case Study' >
+	<slide path = "clouds.swf" />
+	<slide path = "clients.swf" />
+</bloc>
+
+<bloc name = 'your team' >
+	<slide path = "bio1.swf" />
+	<slide path = "bio7.swf" />
+	
+	<slide path = "bio5.swf" />
+	<slide path = "bio9.swf" />
+	<slide path = "bio10.swf" />
+	<slide path = "bio3.swf" />
+	<slide path = "bio4.swf" />
+	<slide path = "bio2.swf" />
+	<slide path = "bio6.swf" />
+	
+
+	
+	
+</bloc>
+
+<bloc name = 'case study' >
+	<slide path = "case.swf" />
+</bloc>
+
+
+
+</blocks>
